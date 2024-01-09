@@ -1,0 +1,48 @@
+ 
+
+h1, h2, p, ul, li {
+			margin: 0;
+			padding: 0;
+		}
+		
+		img {
+			display: block;
+			max-width: 100%;
+		}
+		
+		/********** end CSS Reset ***************/
+		
+		body { 
+			background: #ccc; 
+			font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+			padding-top: 100px;
+		}
+		
+		article {
+			 
+			width: 350px;
+			margin: auto;
+			background-color: gold;
+			border 5px; solid #333;
+			padding: 20px;
+		}
+		
+		p { line-height: 1.4em; }
+		
+		h1, h2{
+			color:brown;
+			background-color: beige;
+			margin-top: 0;
+		}
+
+p {
+	background-color: antiquewhite;
+	color:red;
+}
+
+li {
+	background-color: beige;
+	color:coral;
+}
+
+
